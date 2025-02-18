@@ -1,0 +1,56 @@
+.formLoader img {
+  height: 38px;
+  width: auto;
+  margin-left: 44%;
+  margin-bottom: 10px;
+}
+
+.settings-dropdown-button {
+  background-color: #EDEDED;
+} 
+
+.settings-dropdown-wrapper {
+  background: #ededed;
+  width: 194px;
+  border-radius: 3px;
+  position: absolute;
+}
+
+.settings-dropdown-wrapper li.settings-item {
+  list-style: none;
+  padding: 4px 0px;
+  color: #000;
+  cursor: pointer;   
+}
+
+.settings-dropdown-wrapper li.settings-item:hover {
+  color: #007BFF;
+}
+
+.dropdown .btn:focus {
+  box-shadow: none;
+}
+
+.navbar-collapse ul li {
+  padding: 10px;
+}
+.navbar-collapse ul li.active a {
+  color: #df5019;
+}
+
+.badge{
+  padding: 0.45em 1.3em !important;
+}
+
+.close-all-sessions-btn {
+  padding: 5px 5px;
+}
+
+.sessions-list-table th a, .sessions-list-table th a:hover {
+  text-decoration: none;
+}
+
+.products-wrapper .btn-new-product {
+  float: right;
+  margin : 5px 5px;
+}
